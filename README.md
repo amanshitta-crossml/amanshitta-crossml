@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amanshitta
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in Python development, CyberSecurity and System administration in Linux.
-- 🌱 I’m currently working at crossML
+- 🌱 I’m currently working at crossML working as ASE trainee.
 - 📫 How to reach me - You can't !
 
 <!---
