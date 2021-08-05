@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman
 - 👀 I’m interested in Python development, CyberSecurity and System administration in Linux.
-- 🌱 I’m currently working at crossML working as ASE trainee.
+- 🌱 I’m currently working at crossML as sn Associate Software Engineer trainee.
 - 📫 How to reach me - mail me @ amanshitta@crossml.com
 
 <!---
